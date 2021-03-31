@@ -529,7 +529,7 @@ But it requires getting all the Log4j2 stuff configured right, and haven't done 
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
 			<!-- versions higher than this require Java 8 -->
-			<version>25.1-jre</version>
+			<version>29.0-jre</version>
 		</dependency>
 
 		<!-- mvn dependency:analyze says this is an unused declared dependency, but its wrong. -->
