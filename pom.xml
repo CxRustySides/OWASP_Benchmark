@@ -338,7 +338,7 @@
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
-			<version>4.5.8</version>
+			<version>4.5.13</version>
 		</dependency>
 
 		<!-- including to avoid warning: SLF4J: Defaulting to no-operation (NOP) logger implementation -->
